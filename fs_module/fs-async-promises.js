@@ -1,8 +1,8 @@
-const fs = require("fs/promises");
-const path = require("path");
+// const fs = require("fs/promises");
+// const path = require("path");
 
-const filePath = path.join(__dirname, "text.txt");
-const filePath1 = path.join(__dirname, "text2.txt");
+// const filePath = path.join(__dirname, "text.txt");
+// const filePath1 = path.join(__dirname, "text2.txt");
 
 // write file
 
