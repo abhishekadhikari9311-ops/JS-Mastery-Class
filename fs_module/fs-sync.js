@@ -1,8 +1,8 @@
-const fs = require("fs");
-const path = require("path");
+// const fs = require("fs");
+// const path = require("path");
 //writeFileSync
-let filePath = path.join(__dirname, "text.txt");
-let newFilePath = path.join(__dirname, "text1.txt");
+// let filePath = path.join(__dirname, "text.txt");
+// let newFilePath = path.join(__dirname, "text1.txt");
 // fs.writeFileSync(filePath, "i love nepal my pride my zyaan mine gaurav");
 
 // read file sync
